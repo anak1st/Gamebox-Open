@@ -1,6 +1,6 @@
 # 1. Gamebox 游戏盒子
 
-<img src="images/gamebox.png" style="zoom:50%;" />
+<img src="images/gamebox.png" style="zoom:25%;" />
 
 ## 1.1. 目录
 - [1. Gamebox 游戏盒子](#1-gamebox-游戏盒子)
@@ -76,7 +76,7 @@ base 文件夹里面存放了有用的函数，主要是 **`Randomer`** ，这�
 
 ### 1.5.4. 2048
 
-<img src="images/g2048.png" style="zoom:50%;" />
+<img src="images/g2048.png" style="zoom:25%;" />
 
 经典的2048游戏
 
@@ -94,7 +94,7 @@ base 文件夹里面存放了有用的函数，主要是 **`Randomer`** ，这�
   ***双指针*** 的运作模式，`first` 指针首先指向将要被压缩到的第一个格子，`second` 指向第二个格子，遍历所有区间，将相等的合并，如果 `first` 为空，交换 `first` 和 `second` 内容。
 
 ### 1.5.5. Minesweeper
-<img src="Images/mines.png" style="zoom:50%;" />
+<img src="images/mines.png" style="zoom:25%;" />
 
 Minesweeper 扫雷是经典的游戏，在小时候没啥游戏可以玩的时候，我经常游玩。  
 虽然在计算机资源贫瘠的年代，游戏一般不复杂，但是扫雷也有一些比较特别的处理思想。
