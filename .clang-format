@@ -1,0 +1,11 @@
+---
+Language: Cpp
+BasedOnStyle:  Google
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortLambdasOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: No
+ColumnLimit: 90
+IndentCaseLabels: false
+IndentWidth: 4
+...
